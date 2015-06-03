@@ -1,9 +1,9 @@
 {
     "show_video": true,
-    "use_dropbox": false,
-    "dropbox_key": INSERT,
-    "dropbox_secret": INSERT,
-    "dropbox_base_path": INSERT,
+    "use_dropbox": true,
+    "dropbox_key": "dcca6y1e6kh22hc",
+    "dropbox_secret": "mfujz58wr64y90z",
+    "dropbox_base_path": "/",
     "min_upload_seconds": 3.0,
     "min_motion_frames": 8,
     "camera_warmup_time": 2.5,
